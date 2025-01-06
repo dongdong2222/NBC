@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE5\\Assignment5\\Source\\Assignment5\\Assignment5.Build.cs",
+		"C:\\UE5\\Assignment5\\Source\\Assignment5.Target.cs",
+		"C:\\UE5\\Assignment5\\Source\\Assignment5Editor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

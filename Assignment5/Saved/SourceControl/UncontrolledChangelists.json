@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE5/Assignment5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/UE5/Assignment5/Content/Maps/Assignment5Map.umap",
+				"C:/UE5/Assignment5/Content/Assign5/Assignment5Map.umap",
+				"C:/UE5/Assignment5/Content/Assign5/BP_Assign5.uasset"
+			]
+		}
+	]
+}

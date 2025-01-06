@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue5\\assignment5\\source\\assignment5\\assign5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue5\\assignment5\\intermediate\\build\\win64\\x64\\assignment5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue5\\assignment5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\assignment5\\definitions.assignment5.h",
+            "c:\\ue5\\assignment5\\source\\assignment5\\assign5.h",
+            "c:\\ue5\\assignment5\\intermediate\\build\\win64\\unrealeditor\\inc\\assignment5\\uht\\assign5.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
